@@ -1,7 +1,7 @@
 # AutoPrep
 **Automated Data Preprocessing Python Package for CSV-based Clinical Data**
 **پیش پردازش اتوماتیک داده های بالینی مبتنی بر فرمت CSV**
-![VisualizePreprocessedData](AutoPrep.jpg)(docs/README.md)
+![VisualizePreprocessedData](docs/AutoPrep.jpg)
 
 This project has been modified in the following steps on October 20, 2023:
 
