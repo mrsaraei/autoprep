@@ -22,15 +22,15 @@ This project has been modified in the following steps on October 20, 2023:
 
 **Install AutoPrep Python Package from PyPI**
 
-pip install autoprep
+```pip install autoprep```
 
 **Import PreProcessCSV from AutoPrep Python Package**
 
-from autoprep import PreProcessCSV
+```from autoprep import PreProcessCSV```
 
 **Call the AutoPrep function with the file path as an argument**
 
-preprocessed_df = PreProcessCSV('data_sample/[YourDataName].csv')
+```preprocessed_df = PreProcessCSV('data_sample/[YourDataName].csv')```
 
 ---
 If you have any questions, please feel free to contact mrsaraei3@gmail.com.
