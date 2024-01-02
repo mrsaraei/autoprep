@@ -18,19 +18,5 @@ This project has been modified in the following steps on October 20, 2023:
 * Step 10 [Done]: The preprocessed data will be saved as 'PreprocessedData.csv'.
 * Step 11 [Done]: The feature names will be saved as 'FeatureName.csv'.
 
-# How to install and use AutoPrep
-
-**Install AutoPrep Python Package from PyPI**
-
-```pip install autoprep```
-
-**Import PreProcessCSV from AutoPrep Python Package**
-
-```from autoprep import PreProcessCSV```
-
-**Call the AutoPrep function with the file path as an argument**
-
-```preprocessed_df = PreProcessCSV('data_sample/[YourDataName].csv')```
-
 ---
 If you have any questions, please feel free to contact mrsaraei3@gmail.com.
